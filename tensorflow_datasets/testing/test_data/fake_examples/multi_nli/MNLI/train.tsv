@@ -1,0 +1,4 @@
+skip header
+0	1	2	3	4	5	6	7	correlation	causation	10	neutral
+0	1	2	3	4	5	6	7	correlation	correlation	10	entailment
+0	1	2	3	4	5	6	7	correlation	independence	10	contradiction
